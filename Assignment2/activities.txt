@@ -1,0 +1,38 @@
+type = "school"
+title = "Java class"
+start = "2009, 10, 23, 12, 30"
+end = "2009, 10, 23, 13, 20"
+comment = "About inheritance"
+
+type = "other"
+title = "lunch at Tim Horton"
+start = "2009, 10, 23, 1, 30"
+end = "2009, 10, 23, 2, 23"
+location = "Tim Horton near Stone Road Mall"
+comment = "Together with friends"
+
+type = "home"
+title = "yoga"
+start = "2014, 11, 9, 15, 30"
+end = "2014, 11, 9, 17, 0"
+comment = ""
+
+type = "home"
+title = "laundry"
+start = "2014, 11, 2, 15, 30"
+end = "2014, 11, 2, 17, 0"
+comment = ""
+
+type = "other"
+title = "job interview"
+start = "2011, 5, 12, 11, 30"
+end = "2011, 5, 12, 12, 0"
+location = "RIM Park, Waterloo"
+comment = "dress prepared"
+
+type = "school"
+title = "Math Class"
+start = "2014, 11, 3, 8, 30"
+end = "2014, 11, 28, 9, 20"
+comment = "Assignment due"
+
